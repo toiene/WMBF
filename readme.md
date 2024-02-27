@@ -4,6 +4,7 @@
 The corresponding code of the revising paper "*A novel multi-fidelity surrogate modeling method for non-hierarchical data fusion*" is updated in this program.
 
 2024/2 : the paper is now published in *Engineering with computers* (https://doi.org/10.1007/s00366-023-01937-1)
+
 2023/11 : update the code of the demostration example in 4.1
 
 
